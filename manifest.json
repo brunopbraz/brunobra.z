@@ -6,7 +6,7 @@
   "status": "approved",
   "total": 1,
   "format": "1080x1920 JPEG q90",
-  "bytes_total": 26371,
+  "bytes_total": 34146,
   "servico": "estatico-sem-protecao",
   "aviso": "Imagens publicas. O Meta baixa sem autenticacao; nao ha controle de acesso.",
   "observacao": "image_url precisa de host publico: upload binario so existe para video.",
@@ -14,8 +14,8 @@
     {
       "position": 1,
       "arquivo": "2026-10-01/seq9-story-01.jpg",
-      "bytes": 26371,
-      "sha256": "e5653762be884b6abd72fc7fb127790c4889cb2db9398d1bb361a9d8340a91ff",
+      "bytes": 34146,
+      "sha256": "c5c6a40737a1327975ad0a8eac32615ea1bcf46d40caa1cbd53782d1bd44a1bc",
       "ja_publicado_no_meta": false
     }
   ]
