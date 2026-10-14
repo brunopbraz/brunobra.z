@@ -1,0 +1,19 @@
+{
+  "carousel_id": 1,
+  "caption": "Teste do pipeline de carrossel (nao apaguei ainda). Vou remover em seguida. 🙈",
+  "total": 2,
+  "arquivos": [
+    {
+      "position": 1,
+      "media_kind": "image",
+      "slug": "carrossel/1/slide-01.jpg",
+      "bytes": 13171
+    },
+    {
+      "position": 2,
+      "media_kind": "image",
+      "slug": "carrossel/1/slide-02.jpg",
+      "bytes": 13709
+    }
+  ]
+}
