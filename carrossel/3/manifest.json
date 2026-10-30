@@ -1,0 +1,55 @@
+{
+  "carousel_id": 3,
+  "caption": "Se você também é fã de Peak Blinders, ja tinha pensado nisso?",
+  "total": 8,
+  "arquivos": [
+    {
+      "position": 1,
+      "media_kind": "image",
+      "slug": "carrossel/3/slide-01.jpg",
+      "bytes": 437366
+    },
+    {
+      "position": 2,
+      "media_kind": "image",
+      "slug": "carrossel/3/slide-02.jpg",
+      "bytes": 440481
+    },
+    {
+      "position": 3,
+      "media_kind": "image",
+      "slug": "carrossel/3/slide-03.jpg",
+      "bytes": 459044
+    },
+    {
+      "position": 4,
+      "media_kind": "image",
+      "slug": "carrossel/3/slide-04.jpg",
+      "bytes": 452180
+    },
+    {
+      "position": 5,
+      "media_kind": "image",
+      "slug": "carrossel/3/slide-05.jpg",
+      "bytes": 466026
+    },
+    {
+      "position": 6,
+      "media_kind": "image",
+      "slug": "carrossel/3/slide-06.jpg",
+      "bytes": 444039
+    },
+    {
+      "position": 7,
+      "media_kind": "image",
+      "slug": "carrossel/3/slide-07.jpg",
+      "bytes": 459668
+    },
+    {
+      "position": 8,
+      "media_kind": "image",
+      "slug": "carrossel/3/slide-08.jpg",
+      "bytes": 474579
+    }
+  ]
+}
